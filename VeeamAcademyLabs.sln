@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeeamAcademyLabs", "VeeamAcademyLabs\VeeamAcademyLabs.csproj", "{BE07A4F8-4138-48BE-8F4F-F023481A4811}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE07A4F8-4138-48BE-8F4F-F023481A4811}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE07A4F8-4138-48BE-8F4F-F023481A4811}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE07A4F8-4138-48BE-8F4F-F023481A4811}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE07A4F8-4138-48BE-8F4F-F023481A4811}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E60D49F7-8989-40E7-A7FA-06F998A58088}
+	EndGlobalSection
+EndGlobal
